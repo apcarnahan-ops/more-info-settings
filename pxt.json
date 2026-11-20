@@ -1,0 +1,35 @@
+{
+    "name": "More Info Settings",
+    "description": "Adds some more features to the info tab that normally require using JavaScript",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "moreinfo.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "extraBooleans.ts",
+        "moreSpriteTools.ts",
+        "betterScene.ts",
+        "moreLogic.ts",
+        "MathPlus.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.28",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "assetPack": false
+}
