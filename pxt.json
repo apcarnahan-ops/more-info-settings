@@ -1,5 +1,6 @@
 {
     "name": "More Info Settings",
+    "version": "1.0.0",
     "description": "Adds some more features to the info tab that normally require using JavaScript",
     "dependencies": {
         "device": "*"
